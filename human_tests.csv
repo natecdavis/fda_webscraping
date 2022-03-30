@@ -1,0 +1,155 @@
+,disease_use,trade_name,submission,url_of_c,cpc
+0,Acute Myeloid Leukemia,Vysis D7S486/CEP 7 FISH Probe Kit,K131508,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K131508,PFG
+1,Acute Myeloid Leukemia,Vysis EGR1 FISH Probe Kit,K123951,https://www.accessdata.fda.gov/cdrh_docs/reviews/K123951.pdf,
+2,Acute Myeloid Leukemia,Vysis EGR1 FISH Probe Kit,K091960,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K091960,OWK
+3,Acute Myeloid Leukemia,LeukoStrat CDx FLT3 Mutation Assay,P160040,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160040,OWD
+4,Acute Myeloid Leukemia,Abbott RealTime IDH2,P170005,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P170005,OWD
+5,Acute Myeloid Leukemia,Abbott RealTime IDH1,P170041,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P170041,OWD
+6,Acute Myeloid Leukemia or Myelodysplastic Syndrome,VYSIS EGR1 FISH PROBE KIT - SC (SPECIMEN CHARACTERIZATION,DEN130010,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN130010,PDO
+7,Aggressive Systemic Mastocytosi,KIT D816V ASSAY,H140006,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfhde/hde.cfm?id=H140006,OWD
+8,Autosomal Recessive Carrier Screening,23ANDME PERSONAL GENOME SERVICE,DEN140044,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN140044,PKB
+9,B-cell chronic lymphocytic leukemia,VYSIS CLL FISH PROBE KIT,K100015,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K100015,OVQ
+10,B-cell chronic lymphocytic leukemia,VYSIS CLL FISH PROBE KIT,P150041,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P150041,PNK
+11,B-cell chronic lymphocytic leukemia,CEP 12 SpectrumOrange Direct Labeled Chromosome Enumeration DNA Probe,K962873,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K962873,OVQ
+12,Bladder Cancer,Vysis UroVysion Bladder Cancer Recurrence Kit,K033982,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K033982,MMW
+13,Bladder Cancer,Vysis UroVysion Bladder Cancer Recurrence Kit,K013785,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K013785,MMW
+14,Bladder Cancer,Vysis UroVysion Bladder Cancer Recurrence Kit,K011031,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K011031,MMW
+15,Breast Cancer,23andMe PGS Genetic Health Risk Report for BRCA1/BRCA2 (Selected Variants),DEN170046,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN170046,QAZ
+16,Breast Cancer,Prosigna Breast Cancer Prognostic Gene Signature Assay,K130010,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K130010,NYI
+17,Breast Cancer,MammaPrint,K101454,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K101454,NYI
+18,Breast Cancer,MammaPrint,K081092,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K081092,NYI
+19,Breast Cancer,MammaPrint,K080252,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K080252,NYI
+20,Breast Cancer,MammaPrint,K070675,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K070675,NYI
+21,Breast Cancer,MammaPrint,K062694,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K062694,
+22,Breast Cancer,INFORM HER2 Dual ISH DNA Probe Cocktail,P100027,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?start_search=1&PMANumber=P100027,NYQ
+23,Breast Cancer,HER2 CISH pharmDxTM Kit,P100024,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?start_search=1&PMANumber=P100024,NYQ
+24,Breast Cancer,HER2 Dual ISH DNA Probe Cocktail,P190031,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?start_search=1&PMANumber=P190031,NYQ
+25,Breast Cancer,GeneSearch Breast Lymph Node (BLN) Test Kit,P060017,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?start_search=1&PMANumber=P060017,OCB
+26,Breast Cancer,Dako TOP2A FISH PharmDx Kit,P050045,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?start_search=1&PMANumber=P050045,NXG
+27,Breast Cancer,HER2 IQFISH PHARMDX,P040005,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P040005,MVD
+28,Breast Cancer,INSITE HER-2/NEU KIT,P040030,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P040030,MVC
+29,Breast Cancer,SPOT-LIGHT HER2 CISH KIT,P050040,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P050040,NYQ
+30,Breast Cancer,INFORM HER-2/NEU,P940004,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P940004,MVD
+31,Breast Cancer,DAKO HERCEPTEST,P980018,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P980018,MVC
+32,Breast Cancer,PATH VYSION HER-2 DNA PROBE KIT,P980024,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P980024,MVD
+33,Breast Cancer,DakoCytomation Her2 FISH pharmDx™ Kit,P040005,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P040005,MVD
+34,Breast Cancer,Therascreen PIK3CA RGQ PCR Kit,P190001,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P190001,OWD
+35,Breast Cancer,Therascreen PIK3CA RGQ PCR Kit,P190004,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P190004,OWD
+36,Cell-free DNA blood collection device,Cell-Free DNA BCT,DEN200001,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN200001,QMA
+37,Chromosome abnormalities,Affymetrix CytoScan Dx Assay,K130313,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K130313,
+38,Chromosome abnormalities,AneuVysion,K010288,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K010288,OYU
+39,Chromosome abnormalities,AneuVysion,K972200,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K972200,OYU
+40,Chromosome abnormalities,CYTOSCAN(R) DX,DEN130018,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN130018,PFX
+41,Chromosome abnormalities,GenetiSure Dx Postnatal Assay,K163367,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K163367,PFX
+42,Chromosome abnormalities,CEP 8 Spectrumorange DNA Probe Kit,K953591,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K953591,OYU
+43,Chromosome abnormalities,CEP X SpectrumOrange/ Y SpectrumGreen DNA Probe Kit,K954214,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K954214,OXP
+44,Chronic Myeloid Leukemia,Quantidex qPCR BCR-ABL IS Kit,DEN160003,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN160003,OYX
+45,Chronic Myeloid Leukemia,"Xpert BCR-ABL Ultra, GeneXpert Dx System, GeneXpert Infinity-48s And GeneXpert Infinity-80 Systems",K190076,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K190076,OYX
+46,Chronic Myeloid Leukemia,QXDx BCR-ABL %IS Kit For Use On The QXDx AutoDG DdPCR System,K181661,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K181661,OYX
+47,Chronic Myeloid Leukemia,"MRDx BCR-ABL Test, MRDx BCR-ABL Test Software",K173492,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K173492,OYX
+48,Coagulation Factors,Invader Factor V,K100980,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K100980,NPQ
+49,Coagulation Factors,Invader Factor II,K100943,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K100943,NPR
+50,Coagulation Factors,Illumina VeraCode Genotyping Test for Factor V and Factor II,K093129,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K093129,NPQ
+51,Coagulation Factors,"eSensor Thrombophilia Risk Test, eSensor FII-FV Genotyping Test, eSensor Fll Genotyping Test, eSensor FV Genotyping Test, eSensor MTHFR Genotyping Test",K093974,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K093974,NPQ
+52,Coagulation Factors,Xpert HemosIL FII & FV,K082118,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K082118,NPQ
+53,Coagulation Factors,"Verigene F5 Nucleic Acid Test
+			Verigene F2 Nucleic Acid Test
+			Verigene MTHFR Nucleic Acid Test",K070597,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K070597,NSU
+54,Coagulation Factors,INFINITI System,K060564,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K060564,NPQ
+55,Coagulation Factors,Factor II (Prothrombin) G20210A Kit,K033612,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K033612,NPR
+56,Coagulation Factors,Factor V leiden Kit,K033607,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K033607,
+57,Coagulation Factors,Invader MTHFR 677,K100987,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K100987,OMM
+58,Coagulation Factors,Invader MTHFR 1298,K100496,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K100496,OMM
+59,"COAGULATION, LATE-ONSET ALHEIMER'S DISEASE, PARKINSON'S DISEASE, CELIAC DISEASE, ALPHA-1 ANTITRYPSIN DEFICIENCY, EARLY-ONSET PRIMARY DYSTONIA, FACTOR IX DEFICIENCY, GAUCHER DISEASE TYPE 1, GLUCOSE-6-PHOPHATE DEHYDROGENASE DEFICIENCY, HERDITARY HEMOCHROMATOSIS, HEREDITARY THROMBOPHILIA",PERSONAL GENOME SERVICE (PGS) GENETIC HEALTH RISK TEST FOR HEREDITARY THROMBOPHILIA,DEN160026,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN160026,PTA
+60,Health Risk Assessment System,AncestryDNA Factor V Leiden Genetic Health Risk Test,K192944,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K192944,PTA
+61,Colorectal Cancer,Cologuard,P130017,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P130017,PHP
+62,Colorectal Cancer,Therascreen KRAS RGQ PCR Kit,P110027,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P110027,OWD
+63,Colorectal Cancer,Therascreen KRAS RGQ PCR Kit,P110030,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P110030,OWD
+64,Colorectal Cancer,Therascreen BRAF V600E RGQ PCR Kit,P190026,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P190026,OWD
+65,Colorectal Cancer,Epi ProColon®,P130001,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P130001,PHP
+66,Colorectal Cancer,Cobas KRAS MUTATION TEST,P140023,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P140023,OWD
+67,Colorectal Cancer,Praxis Extended RAS Panel,P160038,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160038,PQP
+68,Colorectal Cancer,"VENTANA ANTI-MLH-1(M1) MOUSE MONOCLONAL PRIMARY ANTIBODY, VENTANA ANTI-PMS2 (A16-4) MOUSE MONOCLONAL PRIMARY ANTIBODY, VENTANA ANTI-MSH2 (G219-1129) MOUSE MONOCLONAL PRIMARY ANTIBODY, VENTANA ANTI-MSH6 (SP 93) MOUSE MONOCLONAL PRIMARY ANTIBODY, VENTANA ANTI-BRAF V600E (VE1) MOUSE MONOCLONAL PRIMARY ANTIBODY",DEN170030,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN170030,PZJ
+69,Colorectal Cancer Predisposition,MUTYH-Associated Polyposis (MAP),K182784,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K182784,QAZ
+70,Cystic Fibrosis,Illumina MiSeqDx Cystic Fibrosis Clinical Sequencing Assay,K132750,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K132750,PFS
+71,Cystic Fibrosis,Illumina MiSeqDx Cystic Fibrosis 139-Variant Assay,K124006,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K124006,PFR
+72,Cystic Fibrosis,"xTAG Cystic Fibrosis 60 Kit v2, xTAG Data Analysis Software (TDAS) CFTR",K163336,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K163336,NUA
+73,Cystic Fibrosis,xTAG Cystic Fibrosis 39 Kit v2,K163347,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K163347,NUA
+74,Cystic Fibrosis,eSensor CF Genotyping Test,K090901,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K090901,NUA
+75,Cystic Fibrosis,xTAG Cystic Fibrosis 60 Kit v2,K083845,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K083845,NUA
+76,Cystic Fibrosis,xTAG Cystic Fibrosis 39 Kit v2,K083846,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K083846,NUA
+77,Cystic Fibrosis,Verigene CFTR and Verigene CFTR PolyT Nucleic Acid Tests,K083294,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K083294,NUA
+78,Cystic Fibrosis,InPlex CF Molecular Test,K063787,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K063787,NUA
+79,Cystic Fibrosis,Cystic Fibrosis Genotyping Assay,K062028,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K062028,NUA
+80,Cystic Fibrosis,Tag-It Cystic Fibrosis Kit,K060627,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K060627,NUA
+81,Cystic Fibrosis,Tag-It Cystic Fibrosis Kit,K043011,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K043011,
+82,Cystic Fibrosis,eSensor Cystic Fibrosis Carrier Detection System,K060543,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K060543,NUA
+83,Cystic Fibrosis,eSensor Cystic Fibrosis Carrier Detection System,K051435,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K051435,NUA
+84,Drug Metabolizing enzymes,xTAG CYP2D6 Kit v3,K130189,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K130189,NTI
+85,Drug Metabolizing enzymes,xTAG CYP2D6 Kit v3,K093420,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K093420,NTI
+86,Drug Metabolizing enzymes,xTAG CYP2D6 Kit v3,K130189,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K130189,NTI
+87,Drug Metabolizing enzymes,xTAG CYP2D6 Kit v3,K131565,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K093420,NTI
+88,Drug Metabolizing enzymes,Spartan RX CYP2C19 Test System,K183530,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K183530,ODW
+89,Drug Metabolizing enzymes,TruDiagnosis System,K183530,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K183530,ODW
+90,Drug Metabolizing enzymes,Verigene CYP2C 19 Nucleic Acid Test,K120466,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K120466,NTI
+91,Drug Metabolizing enzymes,INFINITI CYP2C19 Assay,K101683,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K101683,NTI
+92,Drug Metabolizing enzymes,Invader UGT1A1 Molecular Assay,K051824,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K051824,NTI
+93,Drug Metabolizing enzymes,Roche AmpliChip CYP450 microarray,K043576,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K043576,NTI
+94,Drug Metabolizing enzymes,Roche AmpliChip CYP450 microarray,K042259,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K042259,
+95,Drug Metabolizing enzymes,eSensor Warfarin Sensitivity Saliva Test,K110786,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K110786,NSU
+96,Drug Metabolizing enzymes,eQ-PCR LC Warfarin Genotyping kit,K073071,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K073071,ODW
+97,Drug Metabolizing enzymes,eSensor Warfarin Sensitivity Test and XT-8 Instrument,K073720,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K073720,ODW
+98,Drug Metabolizing enzymes,Gentris Rapid Genotyping Assay - CYP2C9 & VKORCI,K071867,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K071867,ODV
+99,Drug Metabolizing enzymes,INFINITI 2C9 & VKORC1 Assay for Warfarin,K073014,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K073014,ODW
+100,Drug Metabolizing enzymes,Verigene Warfarin Metabolism Nucleic Acid Test and Verigene System,K070804,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K070804,ODW
+101,Endometrial Cancer,VENTANA MMR RxDx,P200019,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P200019,QNH
+102,Fragile X,AmplideX Fragile X Dx & Carrier Screen Kit,DEN190023,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN190023,OYV
+103,Heart Transplant,AlloMap Molecular Expression Testing,K073482,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K073482,
+104,Hematologic Malignancies,"MLL (KMT2A) BREAKAPART FISH PROBE KIT; AML1 (RUNX1) BREAKAPART FISH PROBE KIT, P53 (TP53) DELETION FISH PROBE KIT; EVI1 (MECOM) BREAKAPART FISH PROBE KIT, DEL(20Q) DELETION FISH PROBE KIT; AML1/ETO (RUNX1/RUNXIT1)) TRANSLOCATION, DUAL FUSI, CBFB (CBFB) /MYH11 TRANSLOCATION, DUAL FUSION FISH PROBE KIT,DEL(5Q)DELETION FISH PROBE KIT; DEL(7Q)DELETION FISH PROBE KIT",DEN170070,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN170070,QDI
+105,Hematologic Malignancies,Adaptive Biotechnologies ClonoSEQ Assay,K200009,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K200009,QDC
+106,HEREDITARY THROMBOPHILIA,IMPACT DX FACTOR V LEIDEN AND FACTOR II GENOTYPING TEST,K132978,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K132978,PHJ
+107,Lung and Colon Cancer Assay,ONCO/Reveal Dx Lung & Colon Cancer Assay,P200011,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P200011,PQP
+108,Lynch Syndrome Test System,OncoMate MSI Dx Analysis System,K200129,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K200129,PZJ
+109,Melanoma,"Roche cobas DNA Sample Preparation Kit, COBAS 4800 BRAF V600 MUTATION TEST",P110020,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P110020,OWD
+110,Melanoma,THXID-BRAF KIT,P120014,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P120014,OWD
+111,Multiple Myeloma / Acute Lymphoblastic Leukemia (MRD),ADAPTIVE BIOTECHNOLOGIES CLONOSEQ ASSAY,DEN170080,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN170080,QDC
+112,Myelodysplastic syndrome / myeloproliferative disease,"Fluorescence in situ hybridization, platelet-derived growth factor receptor, beta polypeptide (pdgfrb), rearrangement",H140005,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfhde/hde.cfm?id=H140005,PMI
+113,Myeloproliferative disease / Polycythemia Vera,Ipsogen JAK2 RGQ PCR Kit,DEN160028,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN160028,PSU
+114,Myeloproliferative disease / Polycythemia Vera,Ipsogen JAK2 RGQ PCR Kit,K172287,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K172287,PSU
+115,Non-microbial analyte(s) in patients with suspected sepsis,xSeptiCyte RAPID,K203748,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K203748,PRE
+116,Non-Small Cell Lung Cancer,VYSIS ALK BREAK APART FISH PROBE KIT,P110012,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P110012,OWE
+117,Non-Small Cell Lung Cancer,Cobas EGFR MUTATION TEST v2,P120019,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P120019,OWD
+118,Non-Small Cell Lung Cancer,THERASCREEN EGFR RGQ PCR KIT,P120022,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P120022,OWD
+119,Non-Small Cell Lung Cancer,Cobas EGFR MUTATION TEST v2,P150044,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P150044,OWD
+120,Non-Small Cell Lung Cancer,Cobas EGFR MUTATION TEST v2,P150047,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P150047,OWD
+121,Non-Small Cell Lung Cancer,Oncomine Dx Target Test,P160045,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160045,PQP
+122,Ovarian Cancer,BRACAnalysis CDx,P140020,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?start_search=1&PMANumber=P140020,PJG
+123,Ovarian Cancer,FoundationFocus CDxBRCA,P160018,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160018,PQP
+124,Pharmacogenetic Reports,23ANDME PERSONAL GENOME SERVICE (PGS) PHARMACOGENETIC REPORTS,DEN180028,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN180028,QDJ
+125,Pharmacogenetic Reports,23andMe Personal Genome Service (PGS) Pharmacogenetic Reports,K193492,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K193492,QDJ
+126,"Platforms, Imaging Systems, and Reagents",ILLUMINA MISEQDX PLATFORM,DEN130011,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN130011,PFF
+127,"Platforms, Imaging Systems, and Reagents",MISEQDX UNIVERSAL KIT 1.0,DEN130042,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN130042,PFT
+128,"Platforms, Imaging Systems, and Reagents",DUET SYSTEM,K130775,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K130775,NTH
+129,Prostate Cancer,NADiA ProsVue,K101185,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN130011,PFF
+130,Prostate Cancer,PROGENSA PCA3 Assay,P100033,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?start_search=1&PMANumber=P100033,OYM
+131,Prostate Cancer Predisposition (HOXB13-Related),23andMe PGS Genetic Risk Report For Hereditary Prostate Cancer (HOXB13-Related),K211499,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K211499,QAZ
+132,Setmelanotide eligibility gene variant detection system,POMC/PCSK1/LEPR CDx Panel,DEN200059,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?id=DEN200059,QRV
+133,Severe Combined Immunodeficiency Disorder (SCID),PerkinElmer Enlite TREC Test System,DEN140010,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN140010,PJI
+134,Saliva DNA Specimen Collection Device,AncestryDNA Saliva Collection Kit,K192947,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K192947,OYJ
+135,Tissue of Origin,Pathwork Tissue of Origin Test Kit – FFPE,K120489,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K120489,OIW
+136,Tissue of Origin,Pathwork Tissue of Origin Test Kit – FFPE,K092967,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K092967,OIW
+137,Tissue of Origin,Pathwork Tissue of Origin Test,K080896,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K080896,OIW
+138,Tissue of Origin,Tissue of Origin Test Kit - FFPE,K173839,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K173839,OIW
+139,"Follicular Lymphoma
+(Somatic Gene Mutation Detection System)",Cobas® EZH2 Mutation Test,P200014,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?start_search=1&PMANumber=P200014,OWD
+140,Tumor Profiling,MSK-IMPACT (Integrated Mutation Profiling Of Actionable Cancer Targets):A Hybridization-Capture Based Next Generation Sequencing Assay,DEN170058,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN170058,PZM
+141,Tumor Profiling,FoundationOne CDx,P170019,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?start_search=1&PMANumber=P170019,PQP
+142,Tumor Profiling,FoundationOne Liquid CDx (F1 Liquid CDx),P200006,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?start_search=1&PMANumber=P200006,PQP
+143,Tumor Profiling,Myriad myChoice CDx,P190014,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?start_search=1&PMANumber=P190014,PJG
+144,Tumor Profiling,NYU Langone Genome PACT,K202304,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K202304,PZM
+145,Tumor Profiling,Omics Core,K190661,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K190661,PZM
+146,Tumor Profiling,PGDx elio tissue complete,K192063,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?start_search=1&KNumber=K192063,PZM
+147,Tumor Profiling; NSCLC,Guardant360® CDx,P200010,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?start_search=1&PMANumber=P200010,PQP
+148,"Tumor Profiling, Liquid Biopsy",FoundationOne® Liquid CDx,P190032,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P190032,PQP
+149,Urothelial Cancer,Therascreen FGFR RGQ RT-PCR Kit,P180043,http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?start_search=1&PMANumber=P180043,OWD
+150,Whole exome sequencing,Helix Laboratory Platform,DEN190035,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?id=DEN190035,QNC
